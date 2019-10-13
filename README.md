@@ -15,7 +15,9 @@ npm install axios
 
 The site is a single page application. To navigate through it, begin at the app.js file. The components folder contains all the different functiionailty of the webpage.
 
-To view the page, type npm start into the command line.
+To view the page, type
+npm start
+into the command line.
 
 
 Finally, here is a link to the back end repo of Nc-news.
