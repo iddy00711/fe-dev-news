@@ -1,6 +1,6 @@
 # fe-nc-news
 
-Welcome to Nc-news, the World's first coding focused News paper based in the North of England.
+Welcome to Dev-news, the World's first coding focused News paper based in the North of England.
 
 To run the project locally, you will need to install react, axios and npm.
 Type the following into the command line...
@@ -21,4 +21,4 @@ into the command line.
 
 
 Finally, here is a link to the back end repo of Nc-news.
-https://github.com/iddy00711/nc-news-backend
+https://github.com/iddy00711/dev-news-backend
